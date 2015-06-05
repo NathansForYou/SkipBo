@@ -1,0 +1,63 @@
+Players:
+Ben
+Jeff
+CPU: Watson
+
+Stack size: 4
+
+Types of moves:
+Stack to build
+Hand to build
+Hand to discard
+Discard to build
+
+
+Make sure we say play again (to show the feature) in one option and say quit in another
+
+Seed: 1
+
+Moves:
+
+Ben:
+H2 to B1
+SP to B1
+H2 to B1
+H2 to B1
+H1 to D3
+
+Jeff:
+H4 to D1
+
+Watson:
+Moves printed
+
+Ben:
+H2 to B2
+SP to B2
+SP to B3
+H3 to B1
+H3 to D1
+
+Save Game
+
+Jeff:
+H4 to B3
+H1 to B1
+H2 to B1
+H2 to D2
+
+Watson:
+Moves
+
+Ben:
+SP to B1
+BEN WINS
+
+Ben goes for a bathroom break
+
+Open Game
+Open benSucks.txt
+Go into Jeff's stockpile, change all stockpile cards to skipbo
+
+Jeff:
+Play all 4 SP cards, win game

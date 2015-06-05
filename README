@@ -1,0 +1,62 @@
+/*
+Ronaldo Lelis Santos
+rleliss1
+rleliss1@jhu.edu
+
+Max Basescu
+mbasesc1
+mbasesc1@jhu.edu
+
+Nathan Smith
+nsmith45
+nsmith45@jhu.edu
+
+Yao Cai
+ycai13
+ycai13@jhu.edu
+
+600.120 - Intermediate Programming
+5/2/15
+Project - SkipBo
+*/
+
+Makefile rules:
+
+make test:
+makes and runs all tests (separated into multiple files for each class, so it couldn't be named SkipBo.cpp)
+
+make SkipBo:
+Creates an executable called SkipBo-> when run, this makes a Game instance and allows for a user to play the game
+
+
+We have implemented ALL of the required features and options for the project, including:
+-operator overloading (in Deck and Card)
+-class composition (Pile has-a vector of Cards, Player has-a Hand, Player has-a vector of [discard] Piles etc)
+-inheritance (Person is-a Player and Computer is-a Player; Deck is-a Pile, Hand is-a Pile etc)
+-abstract base classes (Player is an abstract base class for Person and Computer)
+-data encapsulation (private and protected members in Card, Pile, Game and Player)
+-exception handling (invalid moves are one of the places we use exception handling)
+-code reuse
+
+Additionally, our code is clean, efficient, and readable.
+
+
+We have also improved the AI (for extra credit) beyond legal random moves.  The AI functions at nearly the same level as a human player,
+and it will choose a move that best serves to deplete its following piles in order:
+1. Stack (or stock)
+2. Hand
+3. Discard
+
+It will only discard as a last resort, when it is unable to play to a build pile.
+
+
+The general flow of the game (in our code) is as follows:
+- The Game is initialized.  UserInterface::mainMenu() is called, and the members of the Game are populated with information from the user. 
+At this time, the user is able to create a new game or load a previously saved game from a file.
+
+- Game repeatedly calls player.move() on the first player until the player discards.  In player.move(), the user is asked to input a move,
+and the move is either executed or an exception is thrown based on the validity of the move.
+
+- Once the player has played a discard move (player.move() will return false), we do the same thing for the next player (and so on and so forth).
+
+- When a player's stack (or stock) pile has run out, the end game screen is shown, and the user is prompted to start a new game, or to quit.

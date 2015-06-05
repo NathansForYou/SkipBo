@@ -1,0 +1,145 @@
+Some helpful links for saving/loading
+
+http://stackoverflow.com/questions/6797178/how-to-create-a-game-save-file-format-in-c-using-stl
+
+http://gamedev.stackexchange.com/questions/25963/how-do-i-create-a-save-file-for-a-c-game
+
+http://www.cplusplus.com/forum/beginner/8267/
+
+http://www.gamedev.net/topic/591657-c-game-saving/
+
+
+-currentPlayer { int }
+-Players { string name, Pile stack, Pile hand, (Piles) d1, d2, d3, d4 }
+-Deck { Pile }
+-noPlay { Pile }
+-buildPiles { (Piles) b1, b2, b3, b4 }
+
+<currentPlayer>
+3
+</currentPlayer>
+<Players>
+	<name>
+		nameString
+	</name>
+	<Stack>
+		<size>
+			0
+		</size>
+	</Stack>
+	<Hand>
+		<size>
+			1
+		</size>
+		<Card>
+			<type>
+				1
+			</type>
+			<number>
+				2
+			</number>
+		</Card>
+	</Hand>
+	<Pile>
+		<size>
+			2
+		</size>
+		<Card>
+			<type>
+				0
+			</type>
+			<number>
+				3
+			</number>
+		</Card>
+		<Card>
+			<type>
+				0
+			</type>
+			<number>
+				5
+			</number>
+		</Card>
+	</Pile>
+	<Pile>
+		<size>
+			0
+		</size>
+	</Pile>
+	<Pile>
+		<size>
+			0
+		</size>
+	</Pile>
+	<Pile>
+		<size>
+			0
+		</size>
+	</Pile>
+
+</Players>
+<Deck>
+	<size>
+		2
+	</size>
+	<Card>
+		<type>
+			1
+		</type>
+		<number>
+			13
+		</number>
+	</Card>
+	<Card>
+		<type>
+			0
+		</type>
+		<number>
+			5
+		</number>
+	
+	</Card>
+</Deck>
+<noPlay>
+	<size>
+		0
+	</size>
+</noPlay>
+<buildPiles>	
+	<Pile>
+		<size>
+			2
+		</size>
+		<Card>
+			<type>
+				0
+			</type>
+			<number>
+				3
+			</number>
+		</Card>
+		<Card>
+			<type>
+				0
+			</type>
+			<number>
+				5
+			</number>
+		</Card>
+	</Pile>
+	<Pile>
+		<size>
+			0
+		</size>
+	</Pile>
+	<Pile>
+		<size>
+			0
+		</size>
+	</Pile>
+	<Pile>
+		<size>
+			0
+		</size>
+	</Pile>
+</buildPiles>

@@ -1,0 +1,1403 @@
+<currentPlayer>
+	1
+</currentPlayer>
+<Players>
+<Player>
+<name>
+Ben
+</name>
+<Stack>
+<size>
+	20
+</size>
+<Card>
+	<type>
+		1
+	</type>
+	<number>
+		13
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		7
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		6
+	</number>
+</Card>
+<Card>
+	<type>
+		1
+	</type>
+	<number>
+		13
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		5
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		6
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		10
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		3
+	</number>
+</Card>
+<Card>
+	<type>
+		1
+	</type>
+	<number>
+		13
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		4
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		5
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		7
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		12
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		4
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		12
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		2
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		10
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		12
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		1
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		11
+	</number>
+</Card>
+</Stack>
+<Hand>
+<size>
+	4
+</size>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		8
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		9
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		4
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		6
+	</number>
+</Card>
+</Hand>
+<Pile>
+<size>
+	1
+</size>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		3
+	</number>
+</Card>
+</Pile>
+<Pile>
+<size>
+	0
+</size>
+</Pile>
+<Pile>
+<size>
+	0
+</size>
+</Pile>
+<Pile>
+<size>
+	0
+</size>
+</Pile>
+</Player>
+<Player>
+<name>
+Jeff
+</name>
+<Stack>
+<size>
+	20
+</size>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		5
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		5
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		10
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		12
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		8
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		1
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		4
+	</number>
+</Card>
+<Card>
+	<type>
+		1
+	</type>
+	<number>
+		13
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		2
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		2
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		3
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		11
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		1
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		8
+	</number>
+</Card>
+<Card>
+	<type>
+		1
+	</type>
+	<number>
+		13
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		1
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		4
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		6
+	</number>
+</Card>
+<Card>
+	<type>
+		1
+	</type>
+	<number>
+		13
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		6
+	</number>
+</Card>
+</Stack>
+<Hand>
+<size>
+	0
+</size>
+</Hand>
+<Pile>
+<size>
+	0
+</size>
+</Pile>
+<Pile>
+<size>
+	0
+</size>
+</Pile>
+<Pile>
+<size>
+	0
+</size>
+</Pile>
+<Pile>
+<size>
+	0
+</size>
+</Pile>
+</Player>
+</Players>
+<Deck>
+<size>
+	117
+</size>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		12
+	</number>
+</Card>
+<Card>
+	<type>
+		1
+	</type>
+	<number>
+		13
+	</number>
+</Card>
+<Card>
+	<type>
+		1
+	</type>
+	<number>
+		13
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		2
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		10
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		9
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		7
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		10
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		7
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		9
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		7
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		11
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		9
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		8
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		5
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		4
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		7
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		2
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		7
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		5
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		7
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		1
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		9
+	</number>
+</Card>
+<Card>
+	<type>
+		1
+	</type>
+	<number>
+		13
+	</number>
+</Card>
+<Card>
+	<type>
+		1
+	</type>
+	<number>
+		13
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		8
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		6
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		3
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		1
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		4
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		5
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		9
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		2
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		2
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		9
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		10
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		9
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		5
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		5
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		1
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		2
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		12
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		10
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		10
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		11
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		7
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		12
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		8
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		12
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		11
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		8
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		3
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		9
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		8
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		6
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		9
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		8
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		11
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		1
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		5
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		6
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		2
+	</number>
+</Card>
+<Card>
+	<type>
+		1
+	</type>
+	<number>
+		13
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		6
+	</number>
+</Card>
+<Card>
+	<type>
+		1
+	</type>
+	<number>
+		13
+	</number>
+</Card>
+<Card>
+	<type>
+		1
+	</type>
+	<number>
+		13
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		11
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		2
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		5
+	</number>
+</Card>
+<Card>
+	<type>
+		1
+	</type>
+	<number>
+		13
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		9
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		8
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		11
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		6
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		10
+	</number>
+</Card>
+<Card>
+	<type>
+		1
+	</type>
+	<number>
+		13
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		2
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		3
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		4
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		3
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		3
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		3
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		11
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		12
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		8
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		10
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		11
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		6
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		7
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		12
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		10
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		1
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		10
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		3
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		4
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		1
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		4
+	</number>
+</Card>
+<Card>
+	<type>
+		1
+	</type>
+	<number>
+		13
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		11
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		5
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		7
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		3
+	</number>
+</Card>
+<Card>
+	<type>
+		1
+	</type>
+	<number>
+		13
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		6
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		12
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		11
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		7
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		1
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		3
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		9
+	</number>
+</Card>
+<Card>
+	<type>
+		1
+	</type>
+	<number>
+		13
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		12
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		8
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		4
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		4
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		1
+	</number>
+</Card>
+<Card>
+	<type>
+		0
+	</type>
+	<number>
+		2
+	</number>
+</Card>
+</Deck>
+<noPlay>
+<size>
+	0
+</size>
+</noPlay>
+<buildPiles>
+<Pile>
+<size>
+	0
+</size>
+</Pile>
+<Pile>
+<size>
+	0
+</size>
+</Pile>
+<Pile>
+<size>
+	0
+</size>
+</Pile>
+<Pile>
+<size>
+	0
+</size>
+</Pile>
+</buildpiles>
