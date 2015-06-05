@@ -1,25 +1,3 @@
-/*
-Ronaldo Lelis Santos
-rleliss1
-rleliss1@jhu.edu
-
-Max Basescu
-mbasesc1
-mbasesc1@jhu.edu
-
-Nathan Smith
-nsmith45
-nsmith45@jhu.edu
-
-Yao Cai
-ycai13
-ycai13@jhu.edu
-
-600.120 - Intermediate Programming
-5/2/15
-Project - SkipBo
-*/
-
 Makefile rules:
 
 make test:
